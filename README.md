@@ -1,6 +1,6 @@
 # Quiz game
 
-This project is a quiz game, built with **React.js** and **SASS**
+This is a quiz game, built with **React.js** and **SASS**
 
 ## Technologies used
 
