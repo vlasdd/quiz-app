@@ -1,11 +1,11 @@
 # Quiz game
 
-This is a quiz game, built with **React.js** and **SASS**
+This is a quiz game, built with **React.js** and **SCSS**
 
 ## Technologies used
 
 + React.js
-+ SASS
++ SCSS
 
 ## Main Features
 
